@@ -18,7 +18,7 @@ sections:
           Perfect to make your car have a like-new finish. Reaching all parts of
           the exterior.
         features:
-          - Feature one
+          - Wheels, tires and arches cleaned
           - Feature two
           - Feature three
           - Feature four
