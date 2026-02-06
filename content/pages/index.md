@@ -10,15 +10,6 @@ sections:
     subtitle: IN-OUT AutoClean
     text: ''
     actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - type: Button
         label: Get started
         altText: ''
