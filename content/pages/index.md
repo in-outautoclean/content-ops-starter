@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: in-outautoclean.com/pricing/
+        url: /pricing
         showIcon: true
         icon: arrowRight
         iconPosition: right
