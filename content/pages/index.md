@@ -47,7 +47,7 @@ sections:
     type: DividerSection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Our Offers
       color: text-dark
       styles:
         self:
