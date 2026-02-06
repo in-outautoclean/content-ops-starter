@@ -23,6 +23,7 @@ sections:
           - Two bucket method safe contact wash
           - Exterior rinse and microfibre towel dried
           - Tires shined
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
