@@ -20,7 +20,7 @@ sections:
         features:
           - Wheels, tires and arches cleaned
           - Snow foam applied
-          - Tw
+          - Two bucket safe method wash
           - Feature four
         image:
           url: /images/abstract-feature1.svg
