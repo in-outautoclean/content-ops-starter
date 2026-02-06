@@ -14,9 +14,9 @@ sections:
       - title: Full Exterior Wash
         price: £30
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Perfect to make your car have a like-new finish. Reaching all parts of
+          the exterior.
         features:
           - Feature one
           - Feature two
