@@ -10,7 +10,7 @@ sections:
     subtitle: IN-OUT AutoClean
     text: ''
     actions:
-      - label: Get started
+      - label: See Prices
         altText: ''
         url: /
         showIcon: false
