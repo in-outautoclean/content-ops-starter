@@ -110,7 +110,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Cheap Prices
-        subtitle: Faster
+        subtitle: Prices suitable for all customers
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
