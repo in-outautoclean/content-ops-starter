@@ -47,7 +47,7 @@ sections:
     type: DividerSection
   - type: FeaturedItemsSection
     title:
-      text: We Offers
+      text: We Offer
       color: text-dark
       styles:
         self:
