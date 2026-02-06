@@ -58,10 +58,10 @@ sections:
       - type: FeaturedItem
         title: Mobile Car Cleaning
         subtitle: We Come To You
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our car cleaning business offers mobile car wash to save your valuable
+          time. We are equipped with professional supplies to help your car look
+          brand new.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
