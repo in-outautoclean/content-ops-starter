@@ -43,7 +43,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
+      - title: Full Exterior + Interior Deep Clean
         price: $99
         details: per month
         description: >-
