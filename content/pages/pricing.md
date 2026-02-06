@@ -54,7 +54,6 @@ sections:
         features:
           - Everything in full exterior wash
           - Everything in interior deep clean
-          - Feature three
           - ''
         image:
           url: /images/abstract-feature2.svg
