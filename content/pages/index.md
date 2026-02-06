@@ -10,15 +10,6 @@ sections:
     subtitle: IN-OUT AutoClean
     text: ''
     actions:
-      - label: See Prices
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
@@ -28,6 +19,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - label: See Prices
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
