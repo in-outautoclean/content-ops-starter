@@ -19,6 +19,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Button
+        label: Get started
+        altText: ''
+        url: Pricing
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: See Prices
         altText: ''
         url: /
