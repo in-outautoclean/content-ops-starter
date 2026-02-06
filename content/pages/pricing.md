@@ -53,7 +53,7 @@ sections:
           accusantium doloremque.
         features:
           - Everything in full exterior wash
-          - Feature two
+          - Everything in interior deep clean
           - Feature three
           - Feature four
         image:
