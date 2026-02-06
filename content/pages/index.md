@@ -14,7 +14,7 @@ sections:
         label: Get started
         altText: ''
         url: Pricing
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
