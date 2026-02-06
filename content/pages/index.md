@@ -56,7 +56,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Clay Bar
+        title: Mobile Car Cleaning
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
