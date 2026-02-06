@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Pressure Washing at a Cheaper Price
+      text: Mobile Car Detailing and Cleaning
       color: text-primary
       type: TitleBlock
     subtitle: IN-OUT AutoClean
