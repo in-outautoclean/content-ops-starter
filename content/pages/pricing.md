@@ -19,7 +19,7 @@ sections:
           the exterior.
         features:
           - Wheels, tires and arches cleaned
-          - Feature two
+          - Snow foam applied
           - Feature three
           - Feature four
         image:
