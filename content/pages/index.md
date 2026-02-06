@@ -28,15 +28,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-      - label: See Prices
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
