@@ -86,10 +86,9 @@ sections:
               borderRadius: x-large
       - title: Pressure Washing
         subtitle: Safe and Reliable
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Our pressure cleaning allows us to be efficient whilst guaranteeing a
+          pristine finish.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
