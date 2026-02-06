@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Mobile Car Detailing and Cleaning
+      text: Mobile Car Detailing and Washing
       color: text-primary
       type: TitleBlock
     subtitle: IN-OUT AutoClean
